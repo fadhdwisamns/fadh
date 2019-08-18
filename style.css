@@ -1,0 +1,70 @@
+html
+{
+    position: relative;
+}
+body
+{
+    margin-bottom: 0%;
+}
+
+.header
+{
+    background  : #00ccff;
+    height      : 10%;
+    font-size   : 1.5em;
+    text-align  :center;
+    padding-top : 20px;
+}
+.data
+{
+    background  :whitesmoke;
+    height      : 100%;
+    font-size   : 1em;
+    text-align  :center;
+    padding-top : 50px;
+}
+.thumbnail
+{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+}
+.container 
+{
+   width: 100%;
+   min-height: 200px;
+}
+.profil {
+    background-color: chocolate;
+    height: 10%;
+    font-size: 1em;
+    padding-top: 20px;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.hoby
+{
+    background-color: chocolate;
+    height: 10%;
+    font-size: 1em;
+    padding-top: 20px;
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+.foto
+{
+    height: 100%;
+    padding-top: 20px;
+    text-align: center;
+}
+.footer
+{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    
+}
